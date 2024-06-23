@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Data/Exit.jpg</file>
+        <file>Data/Qt_logo.ico</file>
+    </qresource>
+</RCC>
